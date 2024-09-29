@@ -10,7 +10,6 @@
 https://docs.google.com/document/d/1AUgvhgAG4S2xBzu54fWDI6fUhadkwS3FV1g3g-mk28A/edit?usp=sharing 
 
 ## Part 3
-
 Получить список юзернеймов пользователей
 SELECT username FROM users;
 
